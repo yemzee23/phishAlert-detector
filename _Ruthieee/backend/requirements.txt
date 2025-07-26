@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+scikit-learn==1.7.0 # Or the exact version you used for training if different (e.g., 1.6.1)
+pydantic
